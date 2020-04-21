@@ -73,12 +73,13 @@ footer {
 }
 
 .hero {
-    height: 800px;
-    width: 100%;
+    height : 5000px;
     background-image: url("../images/workspace.png");
-    background-size: cover;
-    background-position: center;
+    background-position: center center;
+    background-size : cover;
     background-repeat: repeat;
+    background-attachment: fixed;;
+    
 }
 
 #myNav {
